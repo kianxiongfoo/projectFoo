@@ -1,2 +1,0 @@
-# projectFoo
-Starter
